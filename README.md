@@ -162,4 +162,4 @@ Suggestions to improve models are welcome.
 Additional queries or data sets can be proposed.
 
 
-Thanks for your interest and support! 🚀
+**Thanks for your interest and support! 🚀**
