@@ -25,6 +25,7 @@ The work is divided into two independent databases:
 - Aggregations and grouping (COUNT, AVG, SUM, GROUP BY, HAVING)
 - Advanced queries combining several clauses to extract meaningful reports
 
+##  💁‍♂️ Queries 
 ### 🛍️ Database: Tienda
 We work with two tables:
 
